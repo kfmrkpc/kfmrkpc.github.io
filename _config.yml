@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "P-Docu"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Farklı bir yer, farklı bir şey, farklı konular."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -28,22 +28,22 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Anasayfa
     url: /
-  - text: About
+  - text: Blog
+    url: /
+  - text: Ben Kimim?
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
+  - text: Kategoriler
     url: /tags/
-  - text: Download
+  - text: Linkler
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#6c89c4'
 
 # Site footer
 footer:
