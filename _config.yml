@@ -33,7 +33,7 @@ navigation:
   - text: Blog
     url: /
   - text: Ben Kimim?
-    url: /about/
+    url: /about
   - text: Kategoriler
     url: /tags/
   - text: Linkler
