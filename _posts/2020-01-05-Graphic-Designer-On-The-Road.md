@@ -3,7 +3,7 @@ layout: post
 title: "Yaşamış En Büyük Uçan Canlı Hakkında Ne Biliyoruz?"
 description: "Kretase döneminde, çok etkileyici ve görkemli bir yaratık havada süzülüyordu: 11 ila 12 metrelik kanat açıklığına sahip teruzorlar! "
 date: 2023-09-13
-feature_image: images/road.jpg
+feature_image: images/quetza1.jpeg
 tags: [Paleontoloji]
 ---
 
