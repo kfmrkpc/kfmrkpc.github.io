@@ -7,7 +7,7 @@ feature_image: images/kızılderili1.jpg
 tags: [Common Era]
 ---
 
-Kızılderili
+Kızılderili:)
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Kızılderili
 
 ## Neden?
 
-"Yaz" aynen "yaz", bunu dediler hep. Ne değişecek ki dedim, en sonunda yenik düştüm. Ama bunuda çoğu şeyi yaptığım gibi farklı yapmalıydım. Sümerlerde de kağıt kalem kullanılıyordu sonuçta, bi farkı olmalıydı. Burası doğdu, "P-Docu". Neden bu işte "yazmak". Yazmak dediysekte [Entel Feridun gibi değil yani]([http://a.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOAqunXx8uxmbvbfalI7ehblyqOpUSv-MVQ&usqp=CAU), Soğuk bir Rusya akşamında Moskova'dan St. Petersburg'a giden trendeki entrikaları yazmayacağız:). Hayattan, akademiden, oradan, buradan, şuradan yazacağız.
+"Yaz" aynen "yaz", bunu dediler hep. Ne değişecek ki dedim, en sonunda yenik düştüm. Ama bunuda çoğu şeyi yaptığım gibi farklı yapmalıydım. Sümerlerde de kağıt kalem kullanılıyordu sonuçta, bi farkı olmalıydı. Burası doğdu, "P-Docu". Neden bu işte "yazmak". Yazmak dediysekte [Entel Feridun](https://deep-turkish-web.fandom.com/tr/wiki/Entel_Feridun(Karakter))gibi değil yani. Soğuk bir Rusya akşamında Moskova'dan St. Petersburg'a giden trendeki entrikaları yazmayacağız:). Hayattan, akademiden, oradan, buradan, şuradan yazacağız.
 
 
 
