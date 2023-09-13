@@ -2,7 +2,7 @@
 layout: page
 title: P-DOCU
 description: Home
-feature_image: images/20230913_204041_0000.png
+feature_image: images/IMG_20230913_205501.png
 ---
 
 **Project Docu nedir, neyi amaçlar?** *Hiçbir şeyi amaçlamaz:)*
