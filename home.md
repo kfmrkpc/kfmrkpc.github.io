@@ -5,15 +5,12 @@ description: About
 feature_image: images/mountain-2.jpg
 ---
 
-**[Karadeniz Teknik Üniversitesi](https://www.ktu.edu.tr/med)** Tıp fakültesi 3. sınıf öğrencisi. Bu kadar.
+**Project Docu nedir, neyi amaçlar?** *Hiçbir şeyi amaçlamaz:)*
 
->Yazılım,
->Finansal Piyasalar,
->Grafik Tasarım.
+>Çeşitli alanlardan, günlük hayattan bir şeyler zırvalayan kişisel bir blog burası. Çok da bir şey beklememek lazım kısacası.
+>İşiniz yoksa çıkın gitsin:)
 
-Kişisel blog, pek bir şey yok burda çıkın! Alın size daha eğlenceli linkler:) [Instagram](https://www.instagram.com/), [TikTok](https://www.tiktok.com/tr-TR/), 
-
-
+Ne demiş göbel
 >Faith moves mountains, but only knowledge moves them to the right place. <cite>-Joseph Goebbels</cite>
 
 
