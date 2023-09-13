@@ -5,7 +5,7 @@ description: About
 feature_image: images/mountain-2.jpg
 ---
 
-**Karadeniz Teknik Üniversitesi** Tıp fakültesi 3. sınıf öğrencisi. Bu kadar.
+**[Karadeniz Teknik Üniversitesi](https://www.ktu.edu.tr/med)** Tıp fakültesi 3. sınıf öğrencisi. Bu kadar.
 
 >Yazılım,
 >Finansal Piyasalar,
