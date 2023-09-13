@@ -1,33 +1,33 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
-date: 2022-01-05
+title: "Yaşamış En Büyük Uçan Canlı Hakkında Ne Biliyoruz?"
+description: "Kretase döneminde, çok etkileyici ve görkemli bir yaratık havada süzülüyordu: 11 ila 12 metrelik kanat açıklığına sahip teruzorlar! "
+date: 2023-09-13
 feature_image: images/road.jpg
-tags: [tips, work]
+tags: [Paleontoloji]
 ---
 
-A graphic designer is a professional within the graphic design and graphic arts industry who assembles together images, typography, or motion graphics to create a piece of design. A graphic designer creates the graphics primarily for published, printed or electronic media, such as brochures (sometimes) and advertising. They are also sometimes responsible for typesetting, illustration, user interfaces, web design, or take a teaching position. A core responsibility of the designer's job is to present information in a way that is both accessible and memorable.
+Kretase döneminde, çok etkileyici ve görkemli bir yaratık havada süzülüyordu: 11 ila 12 metrelik kanat açıklığına sahip teruzorlar! 
 
 <!--more-->
 
-A degree or certificate from an accredited trade school is usually considered essential for a graphic design position. After a career history has been established, though, the graphic designer's experience and number of years in the business are considered the primary qualifications. A portfolio, which is the primary method for demonstrating these qualifications, is usually required to be shown at job interviews, and is constantly developed throughout a designer's career. [[Source](https://en.wikipedia.org/wiki/Graphic_designer)]
+Bugün herhangi bir sulak alanda etrafa bir göz gezdirdiğimizde muhtemelen; sığ bölgelerde yürüyen ve sinsice balık, böcek veya kabuklu hayvan arayışında olan yaklaşık 1 metre uzunluğundaki balıkçılları görebilirsiniz.
 
-Ice molecules can exhibit up to sixteen different phases _(packing geometries)_ that depend on temperature and pressure. When water is cooled rapidly (quenching), up to three different types of amorphous ice can form depending on the history of its pressure and temperature. When cooled slowly correlated proton tunneling occurs below 20 K giving rise to macroscopic quantum phenomena. Virtually all the ice on Earth's surface and in its atmosphere is of a hexagonal crystalline structure denoted as ice Ih (spoken as "ice one h") with minute traces of cubic ice denoted as ice Ic. The most common phase transition to ice Ih occurs when liquid water is cooled below 0°C (273.15K, 32°F) at standard atmospheric pressure. It may also be deposited directly by water vapor, as happens in the formation of frost. The transition from ice to water is melting and from ice directly to water vapor is sublimation.
+Fakat 70 milyon yıl önce, Texas’ta bulunan Rio Grande Nehri boyunca, daha etkileyici ve korkunç bir yaratık gizlice bataklığı seyrediyordu: Quetzalcoatlus olarak bilinen 3.6 metre uzunluğundaki bir teruzor (pterosaur). 11 ila 12 metrelik kanat açıklığı ile daha önce Dünya üzerinde yaşamış en büyük uçan hayvandı.
 
-## Characteristics
+Omurgalı Paleontolojisi Derneği tarafından inceleme yazısı olarak yayımlanan 6 makalede bilim insanları ve bir ressam, 1970’lerin sonlarında Big Bend Milli Parkı’ndan toplanan tek bir grup fosilleşmiş kemikle temsil edilen en büyük örnek olan bu dinozor akrabasının şimdiye kadarki en eksiksiz tasvirini ortaya koyuyor. Makaleler, Geç Kretase Dönemi süresince teruzorun jeolojik ve ekolojik ortamını, anatomisi ve taksonomik konumunu, karada ve havada nasıl hareket ettiğini tarif ediyor.
 
-As a naturally-occurring crystalline inorganic solid with an ordered structure, ice is considered a mineral.[citation needed] It possesses a regular crystalline structure based on the molecule of water, which consists of a single oxygen atom covalently bonded to two hydrogen atoms, or H-O-H. However, many of the physical properties of water and ice are controlled by the formation of hydrogen bonds between adjacent oxygen and hydrogen atoms; while it is a weak bond, it is nonetheless critical in controlling the structure of both water and ice.
+## Kemikleri İncelemek
 
-> “ice contains no future , just the past, sealed away. As if they're alive, everything in the world is sealed up inside, clear and distinct. Ice can preserve all kinds of things that way- cleanly, clearly. That's the essence of ice, the role it plays.”
-> <cite>― Haruki Murakami</cite>
+Padian ve meslektaşları, Quetzalcoatlus teruzorlarının nasıl davranışlar sergilediğini anlamak için, makalelerden birinde Lawson’ın adını alan Quetzalcoatlus lawsoni türününkiler de dahil olmak üzere, yaklaşık bir düzine daha küçük ve daha eksiksiz teruzor fosil iskeletinden kemik kalıplarını kullandılar.
 
-An unusual property of ice frozen at atmospheric pressure is that the solid is approximately 8.3% less dense than liquid water. The density of ice is 0.9167 g/cm3 at 0 °C,[4] whereas water has a density of 0.9998 g/cm³ at the same temperature. Liquid water is densest, essentially 1.00 g/cm³, at 4 °C and becomes less dense as the water molecules begin to form the hexagonal crystals[5] of ice as the freezing point is reached. This is due to hydrogen bonding dominating the intermolecular forces, which results in a packing of molecules less compact in the solid. Density of ice increases slightly with decreasing temperature and has a value of 0.9340 g/cm³ at −180 °C (93 K).[6]
+Quetzalcoatlus lawsoni fosilleri, daha büyük olan Quetzalcoatlus northropi türünün de o sıralarda çıkarıldığı Batı Teksas’ta bulunan Javelina Formasyonu’nda bulundu. Daha küçük örnekler, Lawson’un başlangıçta bulduğu daha büyük örneğin boyut olarak yarısı kadardı ancak yaklaşık 300 fosilleşmiş kemik parçasından oluşuyordu. Bununla birlikte daha büyük olan hayvan, sadece kanatlarında bulunan birkaç kemik ile biliniyordu: üst kolda bulunan humerus ile önkolda bulunan ulna.
 
-When water freezes, it increases in volume (about 9% for freshwater).[7] The effect of expansion during freezing can be dramatic, and ice expansion is a basic cause of freeze-thaw weathering of rock in nature and damage to building foundations and roadways from frost heaving. It is also a common cause of the flooding of houses when water pipes burst due to the pressure of expanding water when it freezes.
+Padian, Cunningham ve Conway’in oluşturduğu tablo, beslenme ve havalanma özellikleri açısından akbalıkçıl ve balıkçıllara benzeyen, havada süzülmesi bakımından tepeli akbaba ve akbabalara benzeyen fakat kocaman kanatları nedeniyle yürüyüşü diğer hiçbir hayvana benzemeyen bir hayvanı tasvir ediyor.
 
-The result of this process is that ice _(in its most common form)_ floats on liquid water, which is an important feature in Earth's biosphere. It has been argued that without this property, natural bodies of water would freeze, in some cases permanently, from the bottom up,[8] resulting in a loss of bottom-dependent animal and plant life in fresh and sea water. Sufficiently thin ice sheets allow light to pass through while protecting the underside from short-term weather extremes such as wind chill. This creates a sheltered environment for bacterial and algal colonies. When sea water freezes, the ice is riddled with brine-filled channels which sustain sympagic organisms such as bacteria, algae, copepods and annelids, which in turn provide food for animals such as krill and specialised fish like the bald notothen, fed upon in turn by larger animals such as emperor penguins and minke whales.
+> “Quetzalcoatlus northropi’ye ait kemiklerin bir çizimi. Hayvan, diğerlerinin aksine benzersiz bir yürüyüş stiline sahipti ve vampir yarasalardan bariz bir biçimde farklı özellikler taşıyordu.”
+> <cite>― Chon Convay</cite>
 
-When ice melts, it absorbs as much energy as it would take to heat an equivalent mass of water by 80 °C. During the melting process, the temperature remains constant at 0 °C. While melting, any energy added breaks the hydrogen bonds between ice (water) molecules. Energy becomes available to increase the thermal energy (temperature) only after enough hydrogen bonds are broken that the ice can be considered liquid water. The amount of energy consumed in breaking hydrogen bonds in the transition from ice to water is known as the heat of fusion.
+Bununla birlikte, bacaklarının kanatlarından daha kısa olması nedeniyle havaya yükseliş, kalkış gücünü sağlamak için kanat çırpmak kadar kolay değildi.
 
-As with water, ice absorbs light at the red end of the spectrum preferentially as the result of an overtone of an oxygen-hydrogen (O-H) bond stretch. Compared with water, this absorption is shifted toward slightly lower energies. Thus, ice appears blue, with a slightly greener tint than for liquid water. Since absorption is cumulative, the color effect intensifies with increasing thickness or if internal reflections cause the light to take a longer path through the ice.
+“Havaya yükseliş süreci ile ilgili problemler vardı. Daha küçük örneklerde, muhtemelen her bir tarafta katlanmış durumdayken yaklaşık 2.5 metreden biraz daha az uzunlukta olan aslen 2.75 metrelik kanatlar görülebiliyor. Kalça kısmı yerden hemen hemen 1-1.2 metre yukarıda kalıyor. Bu nedenle eğer koşuyorsanız, kanatları yere çarpmadan zemin ile yalnızca yaklaşık 40 derecelik açıda indirebilirsiniz. Doğal olarak daha güçlü bir yükseliş elde etmek isteyebilirsiniz fakat kanatlar çok büyük olduğundan çok hızlı hareket ettiremezsiniz, bu nedenle bu durum işe yaramaz. Koşmak, havaya yükseliş hızını sağlar, ancak bu problem değil.”. 
