@@ -31,7 +31,7 @@ navigation:
   - text: Anasayfa
     url: /home
   - text: Blog
-    url: /
+    url: /index
   - text: Ben Kimim?
     url: /about
   - text: Kategoriler
