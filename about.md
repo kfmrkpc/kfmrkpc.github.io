@@ -2,7 +2,7 @@
 layout: page
 title: Blog hakkında...
 description: About
-feature_image: images/404.jpg
+feature_image: images/mountain-2.jpg
 ---
 
 **Karadeniz Teknik Üniversitesi** Tıp fakültesi 3. sınıf öğrencisi. Bu kadar.
