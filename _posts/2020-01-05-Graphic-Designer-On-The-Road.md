@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruhlarımız Arkamızda Kalmaycak Kadar Yavaş, Bizi Geçmeyecek Kadar Hızlı."
+title: "Ruhlarımız Arkamızda Kalmayacak Kadar Yavaş, Bizi Geçmeyecek Kadar Hızlı."
 description: "Kızılderili:)"
 date: 2023-09-13
 feature_image: images/kızılderili1.jpg
@@ -13,7 +13,7 @@ Kızılderili:)
 
 ## Hadi Bakalım.
 
-İlk post bu olacak. Açıklamada da yazdığı gibi bu post C.E. Burası benim beynimin bir kaç satır koda yansımış hali:). Zaman ne gösterir bilemeyiz ama devamıda gelecek bu postların. Bir gün toprakla bütüneştiğimde dijital seyir defterim olarak kalacak burası. Sürçü lisan edersek ederiz kime ne? Başlıktada yazdığı gibi buranın bir ritmi olacak ne içerik üretme kaygısı güdecek kadar hızlı gidecek, ne de boşlayacak kadar yavaş.
+İlk post bu olacak. Açıklamada da yazdığı gibi bu post C.E. Burası benim beynimin bir kaç satır koda yansımış hali:). Zaman ne gösterir bilemeyiz ama devamıda gelecek bu postların. Bir gün toprakla bütüneştiğimde dijital seyir defterim olarak kalacak burası. Sürçü lisan edersek ederiz kime ne? Başlıktada yazdığı gibi buranın bir ritimi olacak ne içerik üretme kaygısı güdecek kadar hızlı gidecek, ne de boşlayacak kadar yavaş.
 
 ## Neden?
 
