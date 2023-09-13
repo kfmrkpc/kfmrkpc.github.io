@@ -35,19 +35,19 @@ navigation:
   - text: Ben Kimim?
     url: /about
   - text: Kategoriler
-    url: /tags/
+    url: /tags
   - text: Linkler
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: /404
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus:
 
 # Colors
 accent_color: '#517664'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; 2023 All Rights Reserved by P-DOCU"
   has_social: true
 
 # Plugins
