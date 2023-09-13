@@ -22,5 +22,5 @@ Kızılderili:)
 
 
 > "Çok hızlı yol aldık, ruhumuz geride kaldı. Şimdi biraz bekleyelim, dinlenelim ve ruhumuzla tekrar buluşalım"
-> <cite>―Bir Kızılderili:)**</cite>
+> <cite>**―Bir Kızılderili:)**</cite>
 
