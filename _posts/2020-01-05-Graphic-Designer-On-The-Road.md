@@ -25,6 +25,8 @@ Quetzalcoatlus lawsoni fosilleri, daha büyük olan Quetzalcoatlus northropi tü
 
 Padian, Cunningham ve Conway’in oluşturduğu tablo, beslenme ve havalanma özellikleri açısından akbalıkçıl ve balıkçıllara benzeyen, havada süzülmesi bakımından tepeli akbaba ve akbabalara benzeyen fakat kocaman kanatları nedeniyle yürüyüşü diğer hiçbir hayvana benzemeyen bir hayvanı tasvir ediyor.
 
+![Dinozor](images/quetza1.jpeg "Dinozor sanırım")
+
 > “Quetzalcoatlus northropi’ye ait kemiklerin bir çizimi. Hayvan, diğerlerinin aksine benzersiz bir yürüyüş stiline sahipti ve vampir yarasalardan bariz bir biçimde farklı özellikler taşıyordu.”
 > <cite>― Chon Convay</cite>
 
