@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruhlarmız Arkamızda Kalmaycak Kadar Yavaş, Bizi Geçmeyecek Kadar Hızlı."
+title: "Ruhlarımız Arkamızda Kalmaycak Kadar Yavaş, Bizi Geçmeyecek Kadar Hızlı."
 description: "Kızılderili:)"
 date: 2023-09-13
 feature_image: images/kızılderili1.jpg
