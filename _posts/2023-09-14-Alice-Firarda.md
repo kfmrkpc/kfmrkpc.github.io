@@ -18,7 +18,7 @@ Okumuyordum. Neredeyse 1. ayıydı aynı [kitabın sayfalarını](https://www.is
 ![Alice](images/alice2.jpeg)
 
 >Bu bir alıntıdır deneme.
-> <cite>**Yaren Şener**</cite>
+> <cite>**Deneme**</cite>
 
 
 
