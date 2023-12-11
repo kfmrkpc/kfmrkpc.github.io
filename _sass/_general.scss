@@ -120,7 +120,7 @@ ins {
 }
 
 pre {
-  background: _palette(bg);
+  background: #2596be;
   border: 1px solid _palette(border);
   border-radius: 3px;
   font-family: Consolas, "Andale Mono", "Courier New", Courier, monospace;
@@ -132,7 +132,7 @@ pre {
 }
 
 :not(pre) > code {
-  background: _palette(bg);
+  background: #2596be;
   border: 1px solid _palette(border);
   border-radius: 3px;
   font-family: Consolas, "Andale Mono", "Courier New", Courier, monospace;
