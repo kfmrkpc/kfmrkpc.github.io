@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  color: #000000;
+  color: _palette(primary);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   line-height: 1.66667;
@@ -30,7 +30,7 @@ body {
 }
 
 a {
-  color: #000000;
+  color: _palette(accent);
   text-decoration: none;
   -webkit-transition: color .3s ease;
   transition: color .3s ease;
