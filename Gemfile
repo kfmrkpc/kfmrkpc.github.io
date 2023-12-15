@@ -7,5 +7,6 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'faraday_middleware'
+  gem 'bundle', '~> 0.0.1'
 end
 
