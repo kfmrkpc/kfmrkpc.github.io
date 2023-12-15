@@ -18,7 +18,7 @@ description: "Farklı bir yer, farklı bir şey, farklı konular."
 baseurl: "/home"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "kfmrkpc.github.io/home"
+url: ""
 
 # Favicon
 favicon: images/favicon.png
